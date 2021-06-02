@@ -1,6 +1,6 @@
 # Task 1. WebDev от [RSS School](https://rs.school/)
 
-<img src="./img/window webdev.jpg">
+<img src="./img/webdev.jpg">
 
 ### **Проект WebDev [(готовый)](https://marinatwice82.github.io/webdev/)**
 
